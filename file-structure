@@ -1,0 +1,9 @@
+A simple layout to help me organize the file structure under development.
+
+Program Folder > Main-program.ahk
+                 Items.ahk
+                 Pokemons.ahk
+                 Moves.ahk
+                 Sub-Folder-Media > Sub-Folder-Items
+                                    Sub-Folder-Pokemons
+                 Sub-Folder-Configs
