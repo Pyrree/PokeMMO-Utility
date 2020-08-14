@@ -13,3 +13,4 @@ Planned features:
 Features that I might add, depends on difficulty
 * Team builder, easily see what strengths and weaknesses your team has.
 * Check for updates to the software and updates for the data.
+* Support for multiple languages.
