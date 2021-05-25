@@ -1,6 +1,7 @@
 # PokeMMO-Utility
 
 A Utility software for PokeMMO
+*This project is currently on hold due to my current lack of interest in PokeMMO
 
 Planned features:
 * Complete PokeDex including extra info such as breeding costs.
